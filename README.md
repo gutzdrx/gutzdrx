@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yuri+Luis;Im+from+Brasil,+MT;I+study+systems+development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Gutierrez;Im+from+Brasil,+MT;I+study+systems+development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Guilherme Gutierrez github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gutzdrx&101&bg_color=0&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuriluisz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Luis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriluisz&langs_count=12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img  src="https://github-readme-stats.vercel.app/api/wakatime/?username=yuriluisz&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=12&bg_color=0d1117"/><br/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gutzdrx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Gutierrez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzdrx&langs_count=12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img  src="https://github-readme-stats.vercel.app/api/wakatime/?username=gutzdrx&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=12&bg_color=0d1117"/><br/>
   <a href="https://wakatime.com/@018d3e42-35de-4b9d-8e6d-eabeb29216d2"><img src="https://wakatime.com/badge/user/018d3e42-35de-4b9d-8e6d-eabeb29216d2.svg" alt="Total time coded since Jan 24 2024" /></a>
 </div>
 
