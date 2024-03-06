@@ -25,7 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![React.JS](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![SQL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fsql-logo%2F&psig=AOvVaw3NDILCJZY89HiqLZxsrBTG&ust=1709781558942000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCc2-TW3oQDFQAAAAAdAAAAABAE)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
