@@ -38,6 +38,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-gutierrezz/)
-[![Instagram](https://img.shields.io/badge/-@seuusuario-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gutzdrx)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-gutierrezz/)
+[![Instagram](https://img.shields.io/badge/-Instagramo-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gutzdrx)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/gutzdrx)
