@@ -1,43 +1,46 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<h1 align="center">👋 Olá! Eu sou Guilherme Gutierrez</h1>
+<h3 align="center">Desenvolvedor Front-End focado em Angular, UI moderna e código escalável</h3>
 
-## Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Frontend;Apaixonado+por+Angular+e+TypeScript;Clean+Code+%7C+UX+Driven+Design+%7C+Reatividade" alt="Typing SVG">
+</p>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas no Unic - Cuiabá/MT.
-- 💼 Trabalhando como Técnico de Suporte Tributário na Coplan.
-- 🌱 Aprendendo mais sobre Angular, MySQL, JavaScript e IA.
+---
 
-## Minhas Skills
+### 🧠 Sobre mim
 
-**Aplicações e dados**
+💻 Desenvolvedor front-end com experiência em Angular, TypeScript, JavaScript moderno, HTML5 e CSS3.  
+🚀 Gosto de criar aplicações escaláveis, performáticas e com design limpo.  
+🎯 Estou sempre buscando melhorar a arquitetura dos meus projetos e escrever um código legível e reutilizável.
 
-<!--![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-<!--![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)-->
-<!--![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)-->
+---
 
-**Ferramentas de desenvolvimento**
+### 🚀 Tecnologias que utilizo no dia a dia
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-<!--![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)-->
-<!--![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)-->
-<!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)-->
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-<br/>
+---
 
-<a href="https://github.com/gutzdrx" title="Perfil do gutzdrx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutzdrx&theme=dracula&show_icons=true" />
-</a>
+### 📈 GitHub Insights
 
-## Onde me encontrar
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gutzdrx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzdrx&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/guilherme-gutierrezz/)
-[![Instagram](https://img.shields.io/badge/-Instagramo-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gutzdrx)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/gutzdrx)
+---
+
+### 🌍 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-gutierrezz)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=100&section=footer"/>
+</p>
